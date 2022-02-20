@@ -7,4 +7,5 @@ Computer Networks Notes - AJ
 
 **Note: The videos might be a little advanced and will make sense when you get the hang of the subject, however what happens when you click a link is a very common question in interviews**
 
+Informative videos on Networking, AI and other computer related topics and news - [Computerphile](https://www.youtube.com/user/Computerphile)
 
