@@ -1,4 +1,4 @@
-# Computer-Networks-
+# Computer-Networks-and-DSA
 Computer Networks and DSA Notes - AJ 
 
 IDEs
