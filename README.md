@@ -1,5 +1,9 @@
 # Computer-Networks-
-Computer Networks Notes - AJ 
+Computer Networks and DSA Notes - AJ 
+
+[DSA Notes](https://github.com/prakashbh/dsa-2019)
+
+------------------------------------------------
 
 [Introduction to Computer Networks](https://youtube.com/playlist?list=PLXDX4vxbgW0D3nXlxxNPehChW5iQG1iJC) - Youtube Playlist by Prof. Anand Seetharam
 
