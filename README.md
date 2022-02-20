@@ -1,9 +1,13 @@
 # Computer-Networks-
 Computer Networks and DSA Notes - AJ 
 
-[DSA Notes](https://github.com/prakashbh/dsa-2019)
-
+IDEs
 ------------------------------------------------
+[VS Code](https://code.visualstudio.com/)
+
+[DSA Notes](https://github.com/prakashbh/dsa-2019)
+------------------------------------------------
+ - Data Structures and Algorithms by Prakash Heggade 
 
 ### Computer Networks
 
