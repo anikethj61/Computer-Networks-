@@ -5,6 +5,17 @@ IDEs
 ------------------------------------------------
 [VS Code](https://code.visualstudio.com/)
 
+##### Installing Ubuntu and Debian on VMware
+  [Ubuntu](https://youtu.be/9rUhGWijf9U)
+  
+  
+  [Debian 10](https://youtu.be/dicvg6BbSs8)
+  
+  
+  (**No need of both, use one. Ubuntu is easier to install and use compared to Debian**)
+  
+  
+  
 [DSA Notes](https://github.com/prakashbh/dsa-2019)
 ------------------------------------------------
  - Data Structures and Algorithms by Prakash Heggade 
