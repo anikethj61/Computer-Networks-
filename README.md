@@ -31,3 +31,11 @@ IDEs
 Informative videos on Networking, AI and other computer related topics and news - [Computerphile](https://www.youtube.com/user/Computerphile)
 
 MIT Opencourseware - [Computer Networks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/)
+
+#### Learning Portals
+  
+  [Juniper Learning Portal](https://learningportal.juniper.net/juniper/default.aspx)
+  
+  [Cisoc Network Academy](https://www.netacad.com/)
+  
+  
