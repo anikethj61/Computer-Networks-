@@ -4,6 +4,8 @@ Computer Networks and DSA Notes - AJ
 IDEs
 ------------------------------------------------
 [VS Code](https://code.visualstudio.com/)
+[Codeblocks](https://www.codeblocks.org/)
+
 
 ##### Installing Ubuntu and Debian on VMware
   [Ubuntu](https://youtu.be/9rUhGWijf9U)
@@ -37,5 +39,17 @@ MIT Opencourseware - [Computer Networks](https://ocw.mit.edu/courses/electrical-
   [Juniper Learning Portal](https://learningportal.juniper.net/juniper/default.aspx)
   
   [Cisoc Network Academy](https://www.netacad.com/)
+  
+#### Important Questions
+
+**How do compilers work in C** ([Link](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html#:~:text=A%20compiler%20takes%20the%20program,to%20create%20an%20executable%20file.))
+
+**Implementation of Data Structures in C compilers**
+
+#### Compitetive Coding
+
+  [Hackerrank](https://www.hackerrank.com/)
+  [Codechef](https://www.codechef.com/)
+  [Hackerearth](https://www.hackerearth.com/)
   
   
